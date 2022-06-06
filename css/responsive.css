@@ -1,0 +1,133 @@
+@media screen and (max-width:992px){
+    .main-menus{
+        float:none;
+    }
+    .sub-menu{
+        width:100%;
+    }
+    .feture-icon{
+        width:35%;
+    }
+    .feture-description{
+        width:65%;
+    }
+    .subscribe-submit [type="submit"]{
+        padding:12px 7px;
+    }
+    .premium-price h2{
+        font-size: 25px;
+    }
+    .premium-price h2 span{
+        font-size: 20px;
+    }
+    .premium-title h2{
+        font-size: 30px;
+    }
+    .premium-button .slider-btn a {
+        padding: 10px;
+    }
+    .blog-img{
+        margin-bottom: 30px;
+    }
+    
+}
+@media screen and (max-width:768px){
+    .section-title h2{
+        font-size:30px;
+    }
+    .feture-icon{
+        width: 20%;
+    }
+    .feture-description{
+        width: 80%;
+    }
+    .subscribe-submit [type="submit"]{
+        padding:12px 25px;
+    }
+    .subscribe-title h2 {
+        margin-bottom: 30px
+    }
+    .team-member-title h2 a{
+        font-size: 20px;
+    }
+    .premium-icon img{
+        width:250px;
+    }
+    .premium-single-box{
+        margin-bottom:30px;
+    }
+    .testomonial-img{
+        width:30%;
+        margin-bottom:30px;
+    }
+    .testomonial-content{
+        width:100%;
+    }
+    .premium-price h2{
+        font-size: 35px;
+    }
+    .premium-price h2 span{
+        font-size: 30px;
+    }
+    .premium-title h2{
+        font-size: 35px;
+    }
+    .premium-button .slider-btn a {
+        padding: 12px 35px;
+    }
+    .custom-code{
+        width:100%;
+    }
+    .band-img{
+        height: 30px;
+        padding:10px 10px 10px 10px;
+    }
+    .band-img img{
+        line-height: 110px;
+        width: 30px !important;
+        height: auto;
+    }
+    .margin-bottom{
+        margin-bottom:50px;
+    }
+    .footer-content{
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width:390px){
+    .section-title h2{
+        font-size:30px;
+    }
+    .feture-icon{
+        width: 35%;
+    }
+    .feture-description{
+        width: 65%;
+    }
+    .subscribe-submit [type="submit"]{
+        padding:12px 8px;
+    }
+    .premium-icon img{
+        width:200px;
+    }
+    .testomonial-img:before{
+        font-size: 100px;
+        bottom:0;
+        letter-spacing: -10px;
+    }
+    .premium-price h2{
+        font-size: 25px;
+    }
+    .premium-price h2 span{
+        font-size: 20px;
+    }
+    .premium-title h2{
+        font-size: 30px;
+    }
+    .premium-button .slider-btn a {
+        padding: 10px;
+    }
+    .premium-icon img{
+        width:150px;
+    }
+}
